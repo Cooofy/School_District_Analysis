@@ -36,7 +36,26 @@ The perforamnces are pretty much the same even with removing Thomas High School'
 ##### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
+No changes to the data fram except that for Tomas High Schools 9th grade scores are removed.
+
 - Scores by school spending
+
+No changes to the data frame.
+
 - Scores by school size
+
+No changes to the data frame.
+
 - Scores by school type
 
+Very minor changes, however when you format the data frame they both beome identical as shown in the pictures below.
+
+###### Without Forrmatting
+![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Scores%20By%20School%20Type%20-%20Module%20Picture.PNG)
+
+![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Scores%20By%20School%20Type%20-%20Challenge%20Picture.PNG)
+
+##### With Formatting
+![Orginal Numbers]
+
+![Removed Numbers] 
