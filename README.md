@@ -51,7 +51,7 @@ No changes to the data frame.
 
 Very minor changes, however when you format the data frame they both beome identical as shown in the pictures below.
 
-###### Without Forrmatting
+##### Without Forrmatting
 ![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Scores%20By%20School%20Type%20-%20Module%20Picture.PNG)
 
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Scores%20By%20School%20Type%20-%20Challenge%20Picture.PNG)
@@ -60,3 +60,5 @@ Very minor changes, however when you format the data frame they both beome ident
 ![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Formatted%20Scores%20By%20School%20Type%20-%20Module%20Picture.PNG)
 
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Formatted%20Scores%20By%20School%20Type%20-%20Challenge%20Picture.PNG)
+
+### Summary
