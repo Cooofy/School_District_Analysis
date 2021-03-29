@@ -20,6 +20,8 @@ The school summary is not changed as the only thing we have changed is data for 
 
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/School%20Summary%20-%20Challenge%20Picture.PNG)
 
+##### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The perforamnces are pretty much the same even with removing Thomas High School's grade 9 math and reading scores as seen in the pictures below.
 
 ##### Top School's
 ![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Top%20School%20Summary%20-%20Module%20Picture.PNG)
