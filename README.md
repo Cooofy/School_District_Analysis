@@ -14,7 +14,12 @@ While removing those scores, you may not see a huge difference in the numbers bu
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/District%20Summary%20-%20Challenge%20Picture.png)
 
 ##### How is the school summary affected?
-There is no movement in placments for Thomas High School as the numbers are not a huge diffecence shown in the pictures below.
+The school summary is not changed as the only thing we have changed is data for Thomas High school as shown in the pictures below.
+
+![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/School%20Summary%20-%20Module%20Picture.PNG)
+
+![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/School%20Summary%20-%20Challenge%20Picture.PNG)
+
 
 ##### Top School's
 ![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Top%20School%20Summary%20-%20Module%20Picture.PNG)
