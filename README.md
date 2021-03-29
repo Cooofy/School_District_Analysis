@@ -32,3 +32,11 @@ The perforamnces are pretty much the same even with removing Thomas High School'
 ![Orginal Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Bottom%20School%20Summary%20-%20Module%20Picture.PNG)
 
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Bottom%20School%20Summary%20-%20Challenge%20Picture.PNG)
+
+##### How does replacing the ninth-grade scores affect the following:
+
+- Math and reading scores by grade
+- Scores by school spending
+- Scores by school size
+- Scores by school type
+
