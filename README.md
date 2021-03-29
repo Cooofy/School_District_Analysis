@@ -62,3 +62,4 @@ Very minor changes, however when you format the data frame they both beome ident
 ![Removed Numbers](https://github.com/Cooofy/School_District_Analysis/blob/main/Formatted%20Scores%20By%20School%20Type%20-%20Challenge%20Picture.PNG)
 
 ### Summary
+One of the major changes we have done was we subtracted 461 students from the original dataset which were all the 9th graders in Tomas High School. With the subtraction of those students, we see right away that the overall passing percentage has dropped almost 7.00%. However even with 461 students not being counted for the new dataset the average math and reading scores remain almost the same along with average passing for both categories. Also, when you are looking the spending summary based on the ranges the $630-$644 bracket barely changes with the subtraction of the 9th graders. 
